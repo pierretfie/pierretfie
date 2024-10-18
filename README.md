@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys working with
 |--------------|------------|
 | **Python**   | 70%        |
 | **Verilog**  | 15%        |
-| **HTML/CSS** | 30%        |
-| **Bash**     | 65%         |
+| **HTML/CSS** | 10%        |
+| **Bash**     | 5%         |
 
 ## GitHub Stats
 
@@ -25,7 +25,9 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys working with
 
 ## Contributions
 
-![Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pierretfie&theme=radical)
+- Actively contribute to various projects, focusing on Python and digital design.
+- Collaborated on open-source projects, enhancing features and fixing bugs.
+- Regularly push updates to personal projects, showcasing my growth as a developer.
 
 ## Contact Me
 
