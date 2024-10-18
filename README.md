@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys working with
 |--------------|------------|
 | **Python**   | 70%        |
 | **Verilog**  | 15%        |
-| **HTML/CSS** | 10%        |
-| **Bash**     | 5%         |
+| **HTML/CSS** | 30%        |
+| **Bash**     | 45%         |
 
 ## GitHub Stats
 
