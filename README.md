@@ -1,6 +1,6 @@
 # Hi there, I'm Maina Peter 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who enjoys working with various programming languages. Here’s a bit about me:
+Welcome to my GitHub profile! I'm a passionate Electrical Engineer and developer who enjoys working with various programming languages. Here’s a bit about me:
 
 ## Most Used Languages
 
