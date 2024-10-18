@@ -1,12 +1,32 @@
 # Hi there, I'm Maina Peter 👋
 
-Welcome to my GitHub profile! Here are the programming languages I work with:
+Welcome to my GitHub profile! I'm a passionate developer who enjoys working with various programming languages. Here’s a bit about me:
 
 ## Languages and Tools
 
-- **Python** 🐍 (most experience) [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)](https://www.python.org/)
-- **Verilog** 🛠️ [![Verilog](https://img.shields.io/badge/-Verilog-black?style=flat-square&logo=verilog)](https://en.wikipedia.org/wiki/Verilog)
-- **HTML/CSS** 🌐 [![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- **Bash** 🖥️ [![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash)](https://www.gnu.org/software/bash/)
+| Language     | Percentage |
+|--------------|------------|
+| **Python**   | 70%        |
+| **Verilog**  | 15%        |
+| **HTML/CSS** | 10%        |
+| **Bash**     | 5%         |
+
+## GitHub Stats
+
+![Maina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Contribution Streak
+
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+
+## Contributions
+
+![Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=radical)
+
+## Contact Me
+
+Feel free to reach out via email: [maina350p@gmail.com](mailto:maina350p@gmail.com)
+
+---
 
 Feel free to check out my repositories for projects I've worked on!
