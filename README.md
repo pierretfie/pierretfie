@@ -13,15 +13,15 @@ Welcome to my GitHub profile! I'm a passionate developer who enjoys working with
 
 ## GitHub Stats
 
-![Maina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Maina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierretfie&show_icons=true&theme=radical)
 
 ## Contribution Streak
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=pierretfie&theme=radical)
 
 ## Contributions
 
-![Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=radical)
+![Contributions Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pierretfie&theme=radical)
 
 ## Contact Me
 
