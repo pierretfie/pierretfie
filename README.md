@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who enjoys working with various programming languages. Here’s a bit about me:
 
+## Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pierretfie&layout=compact&theme=radical)
+
 ## Languages and Tools
 
 | Language     | Percentage |
