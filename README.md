@@ -20,8 +20,9 @@ Welcome to my GitHub profile! I'm a passionate Electrical and Electronics Engine
 ![Maina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierretfie&show_icons=true&theme=radical)
 
 ## Contribution Streak
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=pierretfie&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pierretfie)](https://git.io/streak-stats)
+
 
 ## Contributions
 
