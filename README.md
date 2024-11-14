@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Electrical and Electronics Engine
 
 ## Contribution Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pierretfie&theme=radical)](https://git.io/streak-stats)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pierretfie&theme=radical" alt="GitHub Streak" />
 
 ## Contributions
 
