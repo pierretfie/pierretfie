@@ -15,9 +15,9 @@ Welcome to my GitHub profile! I'm a passionate Electrical and Electronics Engine
 | **HTML/CSS** | 30%        |
 | **Bash**     | 45%         |
 
-## GitHub Stats
+<!-- ## GitHub Stats 
 
-![Maina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierretfie&show_icons=true&theme=radical)
+![Maina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierretfie&show_icons=true&theme=radical) -->
 
 ## Contribution Streak
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=pierretfie&theme=radical)
