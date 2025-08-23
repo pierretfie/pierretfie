@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate Electrical and Electronics Engine
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pierretfie&theme=radical)](https://git.io/streak-stats)
 
 ## Contributions
-
+- The mind behind Rena AIAS and TFIE industries ideas.
 - Actively contribute to various projects, focusing on Python and digital design.
 - Collaborated on open-source projects, enhancing features and fixing bugs.
 - Regularly push updates to personal projects, showcasing my growth as a developer.
