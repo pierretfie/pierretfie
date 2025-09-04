@@ -48,7 +48,7 @@ I'm a passionate **Electrical and Electronics Engineer**, **developer**, and **c
 
 ## 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pierretfie&theme=radical" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=pierretfie&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
