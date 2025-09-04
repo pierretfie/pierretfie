@@ -48,7 +48,7 @@ I'm a passionate **Electrical and Electronics Engineer**, **developer**, and **c
 
 ## 🔥 Contribution Streak
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=pierretfie&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=pierretfie&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@ I'm a passionate **Electrical and Electronics Engineer**, **developer**, and **c
 
 ## 🐍 Contribution Snake
 <p align="center">
-![Snake animation](https://github.com/pierretfie/pierretfie/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/pierretfie/pierretfie/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
