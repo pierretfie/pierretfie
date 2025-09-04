@@ -36,6 +36,7 @@ Welcome to my GitHub profile! I'm a passionate Electrical and Electronics Engine
 Feel free to reach out via email: [maina350p@gmail.com](mailto:maina350p@gmail.com)
 
 Visit my portfolio website: [maina mwihaki](https://shadow-slick-portfolio.vercel.app/)
+Visit, write and learn on my blogging website: [Penscreen Blogs](https://penscreenblogs.vercel.app/)
 
 ---
 
