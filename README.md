@@ -1,17 +1,30 @@
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Maina+Peter+👋;Electrical+%26+Electronics+Engineer;Passionate+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Lifelong+Learner+%F0%9F%93%9A)](https://git.io/typing-svg)
+<!-- Header -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+Maina+Peter+%F0%9F%91%8B;Electrical+%26+Electronics+Engineer;Full-Stack+Developer+%F0%9F%9A%80;Cybersecurity+Enthusiast+%F0%9F%94%90;Lifelong+Learner+%F0%9F%93%9A)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=pierretfie&label=Profile+Views&color=00F7FF&style=flat" alt="Profile views" />
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
-Welcome to my GitHub profile!  
-I'm a passionate **Electrical and Electronics Engineer**, **developer**, and **cybersecurity enthusiast** who enjoys working with different technologies, solving real-world problems, and building secure systems.  
+
+I'm a passionate **Electrical and Electronics Engineer**, **developer**, and **cybersecurity enthusiast** based in Nairobi, Kenya. I enjoy designing secure systems, solving real-world engineering problems, and building tools that matter.
+
+- 🔭 Currently working on **Rena AIAS** and **TFIE Industries** projects
+- 🌱 Continuously expanding my skills in **cybersecurity**, **digital design**, and **full-stack development**
+- 🛠️ Building at the intersection of **hardware** and **software**
+- 💬 Ask me about Python, TypeScript, Linux, or anything cybersecurity
+- 📫 Reach me at **maina350p@gmail.com**
 
 ---
 
 ## 🚀 Tech Stack
 
-**Languages & Frameworks**  
+### Languages & Frameworks
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +32,8 @@ I'm a passionate **Electrical and Electronics Engineer**, **developer**, and **c
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-EC1C24?style=for-the-badge&logoColor=white)
 
-**Tools & Platforms**  
+### Tools & Platforms
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -27,7 +41,7 @@ I'm a passionate **Electrical and Electronics Engineer**, **developer**, and **c
 
 ---
 
-## 🛡️ Cybersecurity & Tools
+## 🛡️ Cybersecurity & Pentesting Tools
 
 ![Metasploit](https://img.shields.io/badge/Metasploit-2E74B5?style=for-the-badge&logo=security&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=security&logoColor=white)
@@ -35,51 +49,47 @@ I'm a passionate **Electrical and Electronics Engineer**, **developer**, and **c
 ![Hashcat](https://img.shields.io/badge/Hashcat-9C27B0?style=for-the-badge&logo=security&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=security&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-5A5A5A?style=for-the-badge&logo=security&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pierretfie&show_icons=true&theme=radical" alt="Maina's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierretfie&layout=compact&theme=radical" alt="Most Used Languages" height="180px"/>
-</p>
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pierretfie&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Maina's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pierretfie&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Most Used Languages" height="180px"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pierretfie&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ---
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pierretfie&theme=radical" alt="GitHub Streak"/>
-</p>
+## ✨ Highlights & Contributions
+
+| Area | Details |
+|------|---------|
+| 💡 **Founder** | Creator of the **Rena AIAS** concept and **TFIE Industries** vision |
+| 🐍 **Open Source** | Active contributor to Python and digital design projects |
+| 🔧 **Collaboration** | Contributed to open-source repos — bug fixes, feature enhancements |
+| 🚀 **Growth** | Consistently pushing personal projects forward and documenting progress |
+| 🔐 **Security** | Applying offensive security knowledge to build more resilient systems |
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pierretfie&theme=onedark&margin-w=10&margin-h=10" alt="Trophies"/>
-</p>
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maina350p@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shadow-slick-portfolio.vercel.app/)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://penscreenblogs.vercel.app/)
+
+</div>
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/pierretfie/pierretfie/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
----
-
-## ✨ Contributions
-- 💡 The mind behind **Rena AIAS** and **TFIE Industries** ideas  
-- 🐍 Active contributor to projects focusing on **Python** and **digital design**  
-- 🔧 Collaborated on **open-source** projects, enhancing features and fixing bugs  
-- 🚀 Regularly updating personal projects, showcasing my growth as a developer  
-
----
-
-## 📬 Contact Me
-- 📧 Email: [maina350p@gmail.com](mailto:maina350p@gmail.com)  
-- 🌐 Portfolio: [Maina Mwihaki](https://shadow-slick-portfolio.vercel.app/)  
-- 📝 Blogs: [Penscreen Blogs](https://penscreenblogs.vercel.app/)  
-
----
-
-⭐ *Feel free to explore my repositories and projects!* 🚀
+<div align="center">
+  <i>⭐ If you find my work interesting, feel free to star a repo or reach out — I'm always open to collaboration!</i>
+</div>
