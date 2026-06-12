@@ -78,6 +78,12 @@ I'm a passionate **Electrical and Electronics Engineer**, **developer**, and **c
 
 ---
 
+## 📑 Platforms 
+
+Join me in reading and writing articles on my blogging **website** [Penscreenblogs](https://penscreenblogs.vercel.app/)
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
