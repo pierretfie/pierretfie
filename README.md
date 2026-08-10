@@ -80,7 +80,7 @@ I'm a passionate **Electrical and Electronics Engineer**, **developer**, and **c
 
 ## 📑 Platforms 
 
-Join me in reading and writing articles on my blogging **website** [Penscreenblogs](https://penscreenblogs.com)
+Join me in reading and writing articles on my blogging **website** [Penscreenblogs](https://www.penscreenblogs.com)
 
 ---
 
@@ -90,7 +90,7 @@ Join me in reading and writing articles on my blogging **website** [Penscreenblo
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maina350p@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shadow-slick-portfolio.vercel.app/)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://penscreenblogs.com)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.penscreenblogs.com)
 
 </div>
 
